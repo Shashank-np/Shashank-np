@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212259683-0d3b7c1e-4f47-4b3c-bb78-9b6e5e7f0f7f.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shashank N P</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer | NLP</h3>
 
 <p align="center">
-Passionate about building intelligent systems that solve real-world problems.
+Passionate about building intelligent systems that solve real-world problems.<br>
 Turning raw data into meaningful insights and smart AI solutions.
 </p>
 
@@ -24,10 +28,6 @@ Turning raw data into meaningful insights and smart AI solutions.
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://neomind-ai.streamlit.app/" target="_blank">
-<img src="https://img.shields.io/badge/Neomind_AI_Project-FF6F00?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -47,46 +47,46 @@ Turning raw data into meaningful insights and smart AI solutions.
 
 ### 📰 Fake News Detection System
 
-- Achieved **93% accuracy** with logistic regression algorithm
-- TF-IDF + Machine Learning models
-- Real-time prediction interface
-- Text preprocessing & feature engineering
+- Achieved **93% accuracy** with logistic regression algorithm  
+- TF-IDF + Machine Learning models  
+- Real-time prediction interface  
+- Text preprocessing & feature engineering  
 
 ---
 
 ### 🧩 NLP Pipeline Application
 
-- Tokenization, stemming, lemmatization
-- Stopword removal
-- Text vectorization
-- End-to-end reusable pipeline
+- Tokenization, stemming, lemmatization  
+- Stopword removal  
+- Text vectorization  
+- End-to-end reusable pipeline  
 
 ---
 
 ## 🛠️ Skills
 
 ### 👨‍💻 Programming
-- Python
-- SQL
+- Python  
+- SQL  
 
 ### 🤖 Machine Learning
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
+- Regression  
+- Classification  
+- Clustering  
+- Model Evaluation  
 
 ### 🧠 NLP
-- Text preprocessing
-- Transformers
-- Chatbots
-- Sentiment Analysis
+- Text preprocessing  
+- Transformers  
+- Chatbots  
+- Sentiment Analysis  
 
 ### 📊 Data & Visualization
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Power BI  
 
 ---
 
@@ -99,18 +99,6 @@ Turning raw data into meaningful insights and smart AI solutions.
 ✔ Feature engineering  
 ✔ Exploratory Data Analysis (EDA)  
 ✔ End-to-end analytical workflows  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
 
 ---
 
