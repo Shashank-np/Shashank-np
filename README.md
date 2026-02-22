@@ -1,26 +1,91 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
+</p>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Shashank N P</strong>
-</h1>
+<h1 align="center">Shashank N P</h1>
+<h3 align="center">Data Scientist • Machine Learning Engineer • NLP</h3>
 
-<h3>Data Scientist | Machine Learning Engineer | NLP</h3>
-
-<div align="left">
-
-  <p>
-    Passionate about building intelligent systems that solve real-world problems.
-    Turning raw data into meaningful insights and smart AI solutions.
-  </p>
-
-</div>
-
-<br clear="all" />
+<p align="center">
+Building intelligent systems that turn data into actionable insights and real-world impact.
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 About Me
+
+- Data Scientist with strong foundation in Machine Learning and NLP  
+- Experienced in building end-to-end ML pipelines and deploying AI applications  
+- Passionate about solving real-world problems using data  
+- Focused on scalable, production-ready solutions  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 NeoMind AI — NLP Chatbot  
+🔗 https://neomind-ai.streamlit.app/
+
+- Conversational AI built using Hugging Face Transformers  
+- Context-aware response generation  
+- Real-time web interface using Streamlit  
+- Designed for intelligent question answering  
+
+---
+
+### 📰 Fake News Detection System
+
+- Achieved **93% accuracy** using Logistic Regression  
+- TF-IDF feature engineering on large text datasets  
+- End-to-end ML pipeline from preprocessing to prediction  
+- Real-time inference capability  
+
+---
+
+### 🧩 NLP Pipeline Application
+
+- Tokenization, stemming, lemmatization  
+- Stopword removal and text normalization  
+- Feature extraction and vectorization  
+- Reusable modular pipeline design  
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming:** Python, SQL  
+
+**Machine Learning:**  
+Regression • Classification • Clustering • Model Evaluation  
+
+**Natural Language Processing:**  
+Text preprocessing • Transformers • Chatbots • Sentiment Analysis  
+
+**Data Analysis & Visualization:**  
+Pandas • NumPy • Matplotlib • Seaborn • Power BI  
+
+---
+
+## 📌 Experience
+
+**Data Science Intern — Pyspiders (Mar 2025 – Dec 2025)**  
+
+- Data preprocessing, feature engineering, and exploratory analysis  
+- Developed and evaluated machine learning models  
+- Built end-to-end analytical workflows  
+- Delivered insights from structured datasets  
+
+---
+
+## 🎯 Career Interests
+
+- Data Scientist Roles  
+- Machine Learning Engineer Positions  
+- NLP Engineer Opportunities  
+- AI Research & Applied ML  
+
+---
+
+## 🌐 Contact
 
 <p align="center">
 
@@ -40,85 +105,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-### 🧠 NeoMind AI — NLP Chatbot  
-🔗 Live Demo: https://neomind-ai.streamlit.app/
-
-- Built using Hugging Face Transformers + Streamlit  
-- Conversational AI with real-time responses  
-- Context-aware NLP pipeline  
-- User-friendly web interface  
-- Supports intelligent question answering  
-
----
-
-### 📰 Fake News Detection System
-
-- Achieved **93% accuracy** with logistic regression algorithm  
-- TF-IDF + Machine Learning models  
-- Real-time prediction interface  
-- Text preprocessing & feature engineering  
-
----
-
-### 🧩 NLP Pipeline Application
-
-- Tokenization, stemming, lemmatization  
-- Stopword removal  
-- Text vectorization  
-- End-to-end reusable pipeline  
-
----
-
-## 🛠️ Skills
-
-### 👨‍💻 Programming
-- Python  
-- SQL  
-
-### 🤖 Machine Learning
-- Regression  
-- Classification  
-- Clustering  
-- Model Evaluation  
-
-### 🧠 NLP
-- Text preprocessing  
-- Transformers  
-- Chatbots  
-- Sentiment Analysis  
-
-### 📊 Data & Visualization
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Power BI  
-
----
-
-## 📌 Experience
-
-**Data Science Intern — Pyspiders (Mar 2025 – Dec 2025)**
-
-✔ Data preprocessing & analysis  
-✔ Built and evaluated ML models  
-✔ Feature engineering  
-✔ Exploratory Data Analysis (EDA)  
-✔ End-to-end analytical workflows  
-
----
-
-## 🎯 Currently Looking For
-
-- Data Scientist Roles  
-- Machine Learning Engineer Roles  
-- NLP Engineer Opportunities  
-- AI Research Internships  
-
----
-
 <p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
+Open to opportunities where I can contribute to impactful AI and data-driven solutions.
 </p>
