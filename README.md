@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
 </p>
 
-<h1 align="center"><i>SHASHANK N P</i></h1>
+<h1 align="center"><i><u>SHASHANK N P</u></i></h1>
 <h3 align="center">Data Scientist • Machine Learning Engineer • NLP</h3>
 
 <p align="center">
