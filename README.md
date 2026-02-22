@@ -1,14 +1,32 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284109-0b7b0c2d-7a4f-4b9c-9a9b-0e7f3c3d3b1a.gif" width="100%" />
-</p>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<h1 align="center">Hi 👋, I'm Shashank N P</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | NLP</h3>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Shashank N P</strong>
+</h1>
 
-<p align="center">
-Passionate about building intelligent systems that solve real-world problems.<br>
-Turning raw data into meaningful insights and smart AI solutions.
-</p>
+<h3>Data Scientist | Machine Learning Engineer | NLP</h3>
+
+<div align="left">
+
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+  <p>
+    Passionate about building intelligent systems that solve real-world problems.
+    Turning raw data into meaningful insights and smart AI solutions.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:npshashank5@gmail.com">
+      <img src="https://img.shields.io/badge/📧_npshashank5@gmail.com-1e1e2e?style=for-the-badge" />
+    </a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_|_Data_Science)-1e1e2e?style=for-the-badge" />
+  </p>
+
+</div>
+
+<br clear="all" />
 
 ---
 
