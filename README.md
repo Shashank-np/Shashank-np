@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212259683-0d3b7c1e-4f47-4b3c-bb78-9b6e5e7f0f7f.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284109-0b7b0c2d-7a4f-4b9c-9a9b-0e7f3c3d3b1a.gif" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shashank N P</h1>
