@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="180" style="border-radius:50%" alt="Profile Image"/>
+  <img src="https://github.com/Shashank-np/Shashank-np/blob/main/WhatsApp%20Image%202025-07-20%20at%209.25.41%20PM.jpeg" width="180" style="border-radius:50%" alt="Profile Image"/>
 </p>
 
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
