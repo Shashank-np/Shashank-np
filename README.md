@@ -16,13 +16,7 @@
     Turning raw data into meaningful insights and smart AI solutions.
   </p>
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:npshashank5@gmail.com">
-      <img src="https://img.shields.io/badge/📧_npshashank5@gmail.com-1e1e2e?style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_|_Data_Science)-1e1e2e?style=for-the-badge" />
-  </p>
+
 
 </div>
 
